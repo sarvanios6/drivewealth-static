@@ -1,1 +1,3 @@
 # drivewealth-static
+
+static data added...
